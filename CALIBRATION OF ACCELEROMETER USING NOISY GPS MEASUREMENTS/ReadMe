@@ -1,0 +1,12 @@
+MATLAB PROJECT
+
+CALIBRATION OF ACCELEROMETER USING NOISY GPS MEASUREMENTS
+
+• Applied Kalman filter in MATLAB to estimate position & velocity. Estimated instrument bias without its measurement
+• Achieved error mostly within 1 sigma bound. Verified with Monte Carlo simulation. Tested for orthogonality of error in estimate
+
+Problem Statement in PDF filename: Project_271A_Fall20
+
+Project Report in PDF filename: 271A_Kalman_Filter_Implementation_report
+
+Individual project.
