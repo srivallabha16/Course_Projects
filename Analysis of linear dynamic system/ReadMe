@@ -1,0 +1,12 @@
+MATLAB Project
+Team: 2 members
+
+ANALYSIS OF LINEAR DYNAMIC SYSTEMS
+• Created a 2 i/p-2 o/p time-domain model of order 7 in MATLAB from pulse response data via analysis of Hankel matrix
+• Generated pulse response from white noise inputs to system channels & verified its match with given pulse response data
+
+Given Data filenames: u1_impulse, u2_impulse, u_rand
+
+Problem Statement in PDF filename: MAE270A_project
+
+Detailed Report in PDF filename: M270A_Final_Report
